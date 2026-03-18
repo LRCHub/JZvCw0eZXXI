@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Cold Night",
   "base_artist": "HANA",
-  "createdAt": "2026-02-08T19:40:01.965855Z",
+  "createdAt": "2026-03-18T18:03:49.234657Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -125,12 +125,174 @@
       "path": "select/15_Even_When_It_Hurts_(Praise_Song)_[In_The_Cold_Night_Of_A_Not_Too_Distant_War]_(L_Hillsong_United.lrc"
     },
     {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/16_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/17_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cold",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/18_Cold_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cold Beer Calling My Name (Live)",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/19_Cold_Beer_Calling_My_Name_(Live)_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cold Heart (PNAU Remix)",
+      "artist": "Elton John feat. Dua Lipa & PNAU",
+      "has_synced": true,
+      "path": "select/20_Cold_Heart_(PNAU_Remix)_Elton_John_feat._Dua_Lipa_&_PNAU.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Love, Cold Beer, Cheap Smoke",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/21_Love,_Cold_Beer,_Cheap_Smoke_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Cold Cadaver",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/22_Cold_Cadaver_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Cold As You",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/23_Cold_As_You_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Cold Case",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/24_Cold_Case_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Cold One Comin' On",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/25_Cold_One_Comin'_On_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Cold One Comin' On (Album Version)",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/26_Cold_One_Comin'_On_(Album_Version)_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Cold Cold Heart",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/27_Cold_Cold_Heart_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Crackin’ Cold Ones With the Boys",
+      "artist": "The Cadillac Three",
+      "has_synced": true,
+      "path": "select/28_Crackin’_Cold_Ones_With_the_Boys_The_Cadillac_Three.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Is It Cold In Here",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/29_Is_It_Cold_In_Here_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Is It Cold In Here (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/30_Is_It_Cold_In_Here_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Straight Outta Cold Beer",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/31_Straight_Outta_Cold_Beer_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Cold Hard Truth",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/32_The_Cold_Hard_Truth_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Too Cold at Home",
+      "artist": "Mark Chesnutt",
+      "has_synced": false,
+      "path": "select/33_Too_Cold_at_Home_Mark_Chesnutt.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Cold Night",
       "artist": "HANA",
       "has_synced": false,
       "path": "select/pl_01_Cold_Night_HANA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Cold Night",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/localdb_01_Cold_Night_HANA.txt",
+      "repo_name": "y0buouJde-g"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Cold Night",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/localdb_02_Cold_Night_HANA.txt",
+      "repo_name": "klv3M2eqt3Q"
     }
   ]
 }
